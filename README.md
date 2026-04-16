@@ -1,5 +1,7 @@
 # ederbcosta
-👋 Hi / Olá, I'm Eder Batista da Costa Senior QA Analyst | Game QA Specialist | Manual Testing | Bilingual EN/PT-BR 
+👋 Hi / Olá, I'm Eder Batista da Costa
+
+QA Analyst | Game QA Specialist | Game Designer | Manual Testing | Translator EN/PT-NR
 
 QA professional with 6+ years of experience in gaming, focused on gameplay testing, regression testing, bug management, backend/API validation and release quality. 
 
