@@ -1,5 +1,4 @@
-# ederbcosta
-👋 Hi / Olá, I'm Eder Batista da Costa
+# 👋 Hi / Olá, I'm Eder Batista da Costa
 
 QA Analyst | Game QA Specialist | Game Designer | Manual Testing | Translator EN/PT-NR
 
