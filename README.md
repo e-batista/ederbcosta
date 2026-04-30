@@ -1,10 +1,8 @@
-# 👋 Hi / Olá, I'm Eder Batista da Costa
+# 👋 Hi, I'm Eder Batista da Costa
 
 QA Analyst | Game QA Specialist | Game Designer | Manual Testing | Translator EN/PT-NR
 
 QA professional with 6+ years of experience in gaming, focused on gameplay testing, regression testing, bug management, backend/API validation and release quality. 
-
-Profissional de QA com 6+ anos de experiência em games, focado em testes de gameplay, regressão, gestão de bugs, validação backend/API e qualidade de releases. 
 
 🌍 Open to Remote Global Opportunities 
 
